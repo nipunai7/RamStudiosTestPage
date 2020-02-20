@@ -1,0 +1,1 @@
+./cod4x18_dedrun +set net_port 28960 +set sv_maxclients "64" +set sv_punkbuster 0 +set sv_pure 1 +exec general.cfg +map_rotate +set fs_basepath /home/cod4/cod4-server1 +set g_password "cod4@mit" +set rcon_password "cod4@mit2019" +set fs_homepath /home/cod4/cod4-server1 +set g_log games_mp.log

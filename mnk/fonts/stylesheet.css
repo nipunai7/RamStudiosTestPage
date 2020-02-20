@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Eurostile';
+    src: url('EurostileBold.woff2') format('woff2'),
+        url('EurostileBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Eurostile';
+    src: url('Eurostile-Oblique.woff2') format('woff2'),
+        url('Eurostile-Oblique.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'EurostileExt-Normal';
+    src: url('EurostileExt-Normal.woff2') format('woff2'),
+        url('EurostileExt-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EurostileCnd';
+    src: url('EurostileCnd-Bold.woff2') format('woff2'),
+        url('EurostileCnd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EurostileExt';
+    src: url('EurostileExt-Bold.woff2') format('woff2'),
+        url('EurostileExt-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EurostileExtObl';
+    src: url('EurostileExtObl-Bold.woff2') format('woff2'),
+        url('EurostileExtObl-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Eurostile Extended';
+    src: url('EurostileExtended-Roman.woff2') format('woff2'),
+        url('EurostileExtended-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EurostileExtObl-Normal';
+    src: url('EurostileExtObl-Normal.woff2') format('woff2'),
+        url('EurostileExtObl-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EurostileT';
+    src: url('EurostileT-Bold.woff2') format('woff2'),
+        url('EurostileT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EuroStyle';
+    src: url('EuroStyleNormal.woff2') format('woff2'),
+        url('EuroStyleNormal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
